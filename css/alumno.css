@@ -17,7 +17,7 @@
 }
 
 .contactos li{
-    margin: 2vw;
+    margin: 1vw;
     text-align: center;
 }
 
@@ -38,12 +38,12 @@
     text-align: center;
 }
 .idiomas li{
-    margin: 2vw;
+    margin: 1vw;
 }
 
 #imagen img{
-    width: 3vw;
-    height: 3vw;
+    width: 2vw;
+    height: 2vw;
     margin-right: 2vw;
 }
 
