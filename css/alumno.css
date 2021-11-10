@@ -31,7 +31,6 @@
 }
 
 .idiomas{
-    vertical-align: center;
     background-color: #282a2c;
     list-style-type: none;
     padding: 0.5vw;
@@ -42,14 +41,16 @@
 }
 
 #imagen img{
-    width: 2vw;
-    height: 2vw;
+    float: right;
+    width: 2.5vw;
+    height: 2.5vw;
     margin-right: 2vw;
 }
 
 .lateral{
     font-weight: bold;
     font-size: 2vw;
+    clear: both;
 }
 
 .perfil{
