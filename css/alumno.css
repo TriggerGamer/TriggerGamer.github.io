@@ -112,3 +112,17 @@
     color: #3f4650;
     float: left;
 }
+
+.enlace{
+    text-align: center;
+}
+
+.enlace a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 2vw;
+}
+
+.enlace a:hover{
+    color: brown;
+}
