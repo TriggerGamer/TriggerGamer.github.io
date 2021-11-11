@@ -121,9 +121,13 @@
     text-decoration: none;
     color: black;
     text-align: center;
-    font-size: 2vw;
+    font-size: 1vw;
 }
 
 .enlace a:hover{
     color: lightsalmon;
+}
+
+.enlace img{
+    width: 1vw;
 }
