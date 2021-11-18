@@ -1,5 +1,11 @@
+body{
+    background-color: snow;
+}
+
 header{
     text-align: center;
+    color: firebrick;
+    font-size: 1.5vw;
 }
 
 main{
@@ -10,26 +16,37 @@ main{
 }
 
 .user img{
+    width: 80%;
     border-radius: 50%;
+    border: 2px black solid;
 }
 
 .enlace{
    margin: 5vw;
+   font-size: 5vw;
+   
 }
 
 .enlace a{
     text-decoration: none;
-    color: black;
+    color: darkgoldenrod;
     text-align: center;
     font-size: 2vw;
     
 }
 
 .enlace a:hover{
-    color: lightsalmon;
+    color: darkorchid;
 }
 
-.enlace img{
+.especial img{
     width: 3vw;
-    margin: 0;
 }
+
+.especial{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
